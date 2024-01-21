@@ -2,6 +2,11 @@
 ## tytul
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # image
-... python
-value = 'hello Word'
-...
+
+''' python
+# kod python
+def hello():
+  return "hello word"
+print (hello)
+'''
+
