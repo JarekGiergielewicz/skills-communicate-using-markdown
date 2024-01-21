@@ -4,7 +4,7 @@
 # image
 
 ''' python
-# kod python
+### kod python
 def hello():
   return "hello word"
 print (hello)
