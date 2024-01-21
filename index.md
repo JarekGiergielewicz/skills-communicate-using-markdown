@@ -2,3 +2,6 @@
 ## tytul
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # image
+... python
+value = 'hello Word'
+...
